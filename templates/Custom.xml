@@ -1,3 +1,0 @@
-<templateSet group="Custom">
-  <template name="ci" value="console.log($END$);" description="" toReformat="false" toShortenFQNames="true" deactivated="true" />
-</templateSet>
