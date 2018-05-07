@@ -5,9 +5,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="meta f" />
-  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
@@ -20,6 +17,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
@@ -29,5 +29,6 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Vcs.Log.GoToRef" />
   <action id="ViewSource" />
 </keymap>
