@@ -2,39 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.js" />
-    <recentFileMasks>
-      <mask>(spec.js</mask>
-      <mask>spec.js</mask>
-      <mask>pec.js</mask>
-      <mask>ec.js</mask>
-      <mask>c.js</mask>
-      <mask>*/*.js</mask>
-      <mask>*.*/*.js</mask>
-      <mask>*.**.js</mask>
-      <mask>*.*.js</mask>
-      <mask>**.js</mask>
-      <mask>.js</mask>
-      <mask>*l.js</mask>
-      <mask>*loa.js</mask>
-      <mask>*load.js</mask>
-      <mask>*loader..js</mask>
-      <mask>*.loader..js</mask>
-      <mask>*</mask>
-      <mask>*.spe.js</mask>
-      <mask>*.sp.js</mask>
-      <mask>*.s.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.spe</mask>
-      <mask>*.spec</mask>
-      <mask>*.spec.</mask>
-      <mask>*..js</mask>
-      <mask>*.scss</mask>
-      <mask>*.spec.js</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
   </component>
 </application>
